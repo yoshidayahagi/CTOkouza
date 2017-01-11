@@ -1,0 +1,13 @@
+<root>
+  <person name="田中" age="37">
+    <id>36</id>
+    <addr>
+      <pref>東京都</pref>
+      <ku>世田谷区</ku>
+      <others>経堂5-3</others>
+    </addr>
+  </person>
+  <person name="吉田" age="27">
+    <id>100</id>
+  </person>
+</root>
