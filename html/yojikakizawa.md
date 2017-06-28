@@ -9,13 +9,13 @@
 - 23区
 - それ以外
 
-####埼玉
+#### 埼玉
 
 - 川越
 
 -- 小仙波
 
-| last name     | first name    | 
+| last name     | first name    |
 | ------------- |:-------------:|
 | kakizawa      | yoji          |
 | aaaaaaaa      | bbbbbbbb      |
